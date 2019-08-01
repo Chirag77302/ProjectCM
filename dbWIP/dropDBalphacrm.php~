@@ -1,0 +1,18 @@
+<?php
+/*
+
+*	File:		dropDBalphacrm.php
+*	By:		Subash
+*	Date:		2019-07-27
+*
+*	This script *
+*
+*
+*=====================================
+*/
+
+mysqli_query("DROP DATABASE alphacrm");
+
+
+
+?>
